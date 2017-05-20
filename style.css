@@ -1,6 +1,6 @@
 body {
   color: #ffffff
-  background: #000000 url: ('images/bg.png') no repeat 50% 45px;
+  background: #000000 url: ('../images/bg.png') no repeat 50% 45px;
 }
 
 nav {
